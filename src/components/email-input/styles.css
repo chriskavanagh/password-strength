@@ -1,0 +1,15 @@
+.__email-input {
+    border: 3px solid#899fb8;
+    color: rgb(37, 59, 85);
+    outline: 0;
+    padding: 6px;
+    font-size: 23px;
+    min-width: 200px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: url(/email-gray.png) no-repeat 7px 7px;
+    /* background-size: contain; */
+    background-size: 9%;
+    padding-left: 50px;
+    display: block;
+}
